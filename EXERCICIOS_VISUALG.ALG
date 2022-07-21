@@ -1,4 +1,4 @@
-Algoritmo "Exercicios_Visualg"
+// Algoritmo "Exercicios_Visualg"
 // Disciplina  : Java - Programa Entra21 - 2022
 // Professor   : Profª Heloísa Cláudia Barros de Moura
 // Descrição   : Compilação dos exercícios do Visualg
